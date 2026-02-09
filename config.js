@@ -17,7 +17,7 @@ const CONFIG = {
     doctorCredentials: "MD, FACS",
     doctorTitle: "Board-Certified Plastic Surgeon",
     doctorBio: "Originally from Tel Aviv, Israel, Dr. Ram Kalus spent his formative years in New York City before establishing his practice in South Carolina in 1990. A board-certified plastic surgeon by the American Board of Plastic Surgery, Dr. Kalus is a Fellow of the American College of Surgeons and an active member of ASAPS and ASPS. With over 35 years of experience serving Charleston and Mt. Pleasant, Dr. Kalus is renowned for delivering natural-looking, transformative results.",
-    doctorImage: "images/doctor-placeholder.jpg",
+    doctorImage: "images/doctor-portrait.png",
     
     // Practice Stats
     yearsExperience: "35+",
